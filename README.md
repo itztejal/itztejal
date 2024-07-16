@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Tejal Girme, a Full Stack Software Engineer from India passionate about developing production-ready applications with 2+ years of professional working experience. 🎯
+I am Tejal, a Full Stack Software Engineer from India passionate about developing production-ready applications with 2+ years of professional working experience. 🎯
 
 I mostly work with Java, MVC Frameworks and Cloud based technologies. 🚀
 <br>
